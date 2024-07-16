@@ -1,0 +1,4 @@
+*.osm
+*.csv
+**/__pycache__/*
+**.*.pyc
